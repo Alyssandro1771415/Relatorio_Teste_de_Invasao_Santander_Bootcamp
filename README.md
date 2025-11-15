@@ -11,7 +11,6 @@ O laboratório foi realizado em um ambiente local **Kali Linux** e Virtualbox ex
 ## 📌 Estrutura do Projeto
 
 * `README.md` – Documentação completa do projeto
-* `/images` – Evidências e capturas de tela (opcional)
 * `/testes_kali` – Diretório contendo diretórios dos testes
   - `/Testes_Medusa_Forms_Web` -  Diretório contendo os arquivos gerados previamente e durante a invasão do fumulário web [DVWA]
   - `/Testes_Medusa_Spray` - Diretório contendo os arquivos gerados previamente e durante a invasão usando spray
